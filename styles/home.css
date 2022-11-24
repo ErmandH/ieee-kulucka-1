@@ -1,0 +1,40 @@
+body{
+	background-color:#001E3C;
+	color: white;
+}
+.navbar{
+	background-color: #0A1929 ;
+}
+
+.main-content{
+	margin-top: 2rem;
+}
+
+.nav-logo{
+	font-size: 2.4rem;
+}
+
+.nav-logo a{
+	text-decoration: none;
+	color: white;
+}
+
+.nav-wrapper{
+	display: flex;
+	align-items: center;
+	min-height: 80px;
+}
+
+hr{
+	border: 1px solid #0A1929;
+}
+
+.link{
+	text-decoration: none;
+	color: #4dabf5;
+	transition: all 0.5s;
+}
+
+.link:hover{
+	color: #1769aa;
+}

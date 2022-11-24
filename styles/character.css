@@ -1,0 +1,24 @@
+.character-info{
+	background-color: #0A1929;
+	margin-top: 1rem;
+	padding: 1rem;
+	border-radius: 0.8rem;
+	display: flex;
+	align-items: center;
+}
+
+.img-wrapper{
+	height: 20rem;
+	flex: 1;
+}
+
+img {
+	width: 100%;
+	height: 100%;
+}
+
+.info{
+	flex: 3;
+	padding: 0 1rem;
+	font-size: 1.3rem;
+}
