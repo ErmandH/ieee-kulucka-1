@@ -1,0 +1,32 @@
+.form-wrapper{
+	background-color: #001E3C;
+	padding: 2rem;
+	border-radius: 0.8rem;
+	display: flex;
+	flex-direction: column;
+	color: white;
+}
+.form-header{
+	text-align: center;
+	color: white;
+}
+
+.form-group{
+	margin-top: 0.8rem;
+	display: flex;
+	flex-direction: column;
+}
+
+.text-danger{
+	color: red;
+}
+
+.form-input{
+	padding: 1rem 0.7rem;
+	border-radius: 0.8rem;
+	margin-top: 0.5rem;
+	min-width: 16rem;
+	border: 1px solid #0A1929;
+	font-size: 1rem;
+	
+}
