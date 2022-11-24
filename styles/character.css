@@ -1,14 +1,14 @@
 .character-info{
 	background-color: #0A1929;
 	margin-top: 1rem;
-	padding: 1rem;
+	padding: 1.5rem;
 	border-radius: 0.8rem;
 	display: flex;
 	align-items: center;
+	flex-wrap: wrap;
 }
 
 .img-wrapper{
-	height: 20rem;
 	flex: 1;
 }
 

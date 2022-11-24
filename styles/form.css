@@ -58,3 +58,13 @@ select.form-input{
 .form-btn:hover{
 	background-color: #4b5fd5;
 }
+
+.form-btn a {
+	text-decoration: none;
+	color: white;
+}
+
+.form-btn a::selection  {
+	text-decoration: none;
+	color: white;
+}
