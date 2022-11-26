@@ -2,55 +2,17 @@ body{
 	background-color:#001E3C;
 	color: white;
 }
-.navbar{
-	background-color: #0A1929 ;
-}
+
 
 .main-content{
 	margin-top: 2rem;
 }
 
-.nav-logo{
-	font-size: 2.4rem;
-}
-
-.nav-logo a{
-	text-decoration: none;
-	color: white;
-	transition: 0.5s;
-}
-
-.nav-logo a:hover{
-	color: rgba(255, 255, 255, 0.741);
-}
-
-.nav-wrapper{
-	display: flex;
-	align-items: center;
-	min-height: 80px;
-	justify-content: space-between;
-}
-
-.nav-list{
-	display: flex;
-	list-style-type: none;
-}
-
-.nav-list li{
-	padding: 0.8rem;
-	font-size: 1.2rem;
-	cursor: pointer;
-	transition: 0.5s;
-}
-.nav-list li:hover{
-	color: rgba(255, 255, 255, 0.741);
-}
 
 
 hr{
 	border: 1px solid #0A1929;
 }
-
 
 
 .link{
