@@ -29,13 +29,15 @@
 	align-items: center;
 }
 
-.nav-list li{
+.nav-list a{
 	padding: 0.8rem;
 	font-size: 1.2rem;
 	cursor: pointer;
 	transition: 0.5s;
+	color: white;
+	text-decoration: none;
 }
-.nav-list li:hover{
+.nav-list a:hover{
 	color: rgba(255, 255, 255, 0.741);
 }
 
@@ -51,5 +53,5 @@
 }
 
 .nav-button:hover{
-	background-color: #011c38;
+	background-color: #011123;
 }
